@@ -1,8 +1,8 @@
-# **Práctica uno.** Aprendizaje de Máquinas
+# **Práctica dos.** Aprendizaje de Máquinas
 
 ***Simón Cuartas Rendón***
 
-Desarrollo del **entregable número uno** del curso de **aprendizaje de máquinas**, relacionado con los temas de **regresión** y **clasificación**.
+Desarrollo del **entregable número dos** del curso de **aprendizaje de máquinas**, relacionado con los temas de **redes neuronales**: aplicaciones en problemas de clasificación y regresión (en un problema de series de tiempo).
 
 A continuación, se explica cómo se pueden configurar el entorno virtual con el que se pueden ejecutar los *notebooks* de Python 
 
